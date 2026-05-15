@@ -244,21 +244,6 @@ Test buzzer
 
 ----------------------
 
-💰 Cost Breakdown
-
-| Component      | Cost (₹)              |
-| -------------- | --------------------- |
-| Arduino Uno    | ₹800                  |
-| Buzzer         | ₹150                  |
-| LED + Resistor | ₹20                   |
-| Breadboard     | ₹200                  |
-| Jumper Wires   | ₹100                  |
-| USB Cable      | ₹200                  |
-| **Total**      | **₹1,470 (~$18 USD)** |
-
-90% cheaper than commercial smart dispensers
-
---------------------------------------
 
 **🔮 Future Enhancements**
 
